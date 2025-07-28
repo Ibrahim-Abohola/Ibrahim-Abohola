@@ -15,8 +15,17 @@ I'm a computer engineering student at cairo university faculty of engineering. I
 
 
 
-## 🛠 Skills
-C++, C programming, problem solving ...
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Languages and Tools 🛠:</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,dotnet,git,github,&perline=14" />
+  </a>
+</p>
 
 
 ## 🔗 Links
