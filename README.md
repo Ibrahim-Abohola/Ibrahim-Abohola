@@ -39,11 +39,8 @@ I'm a computer engineering student at cairo university faculty of engineering. I
 <!--icons and links-->
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-abohola-024106290" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/Hema_ target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/Hema_" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="50" width="50" /></a>
 </p>
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abohola-024106290)
 
   
