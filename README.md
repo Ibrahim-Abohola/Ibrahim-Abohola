@@ -25,9 +25,7 @@ I am an engineering student at **Cairo University Faculty of Engineering (CUFE)*
 ## 📊 My GitHub Insights & Metrics
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-Abohola&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+
 </p>
 
 <br/>
